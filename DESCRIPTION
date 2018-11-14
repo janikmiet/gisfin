@@ -35,6 +35,7 @@ Collate:
     'firstlib.R'
     'generate_map_colours.R'
     'geocode.R'
+    'get_ips.R'
     'get_mml.R'
     'get_theme_map.R'
     'gisfin-package.R'
@@ -47,4 +48,4 @@ Collate:
     'region_plot.R'
     'ropengov_storage_path.R'
     'sp2df.R'
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.0

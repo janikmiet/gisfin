@@ -32,6 +32,7 @@ Collate:
     'WFSClient.R'
     'GeoStatFi.R'
     'WFSRequest.R'
+    'dedonde.R'
     'firstlib.R'
     'generate_map_colours.R'
     'geocode.R'
@@ -48,4 +49,4 @@ Collate:
     'region_plot.R'
     'ropengov_storage_path.R'
     'sp2df.R'
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
